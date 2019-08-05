@@ -5,3 +5,10 @@ C:\Users\saul\source\repos\HangMan\HangMan\obj\Debug\HangMan.csprojAssemblyRefer
 C:\Users\saul\source\repos\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
 C:\Users\saul\source\repos\HangMan\HangMan\obj\Debug\HangMan.exe
 C:\Users\saul\source\repos\HangMan\HangMan\obj\Debug\HangMan.pdb
+F:\msi\Desktop\Proyectos-C#\HangMan\Hangman_CS\bin\Debug\HangMan.exe.config
+F:\msi\Desktop\Proyectos-C#\HangMan\Hangman_CS\bin\Debug\HangMan.exe
+F:\msi\Desktop\Proyectos-C#\HangMan\Hangman_CS\bin\Debug\HangMan.pdb
+F:\msi\Desktop\Proyectos-C#\HangMan\Hangman_CS\obj\Debug\HangMan.csprojAssemblyReference.cache
+F:\msi\Desktop\Proyectos-C#\HangMan\Hangman_CS\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+F:\msi\Desktop\Proyectos-C#\HangMan\Hangman_CS\obj\Debug\HangMan.exe
+F:\msi\Desktop\Proyectos-C#\HangMan\Hangman_CS\obj\Debug\HangMan.pdb
