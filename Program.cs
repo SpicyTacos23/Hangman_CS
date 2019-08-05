@@ -8,7 +8,7 @@ namespace HangMan
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {            
             string[] palabras = new string[10];
             string[] palabras1 = new string[10] { "oro", "sol", "moco", "mesa", "pila", "libro", "raton", "planta", "tiza", "boli"};
@@ -107,9 +107,20 @@ namespace HangMan
             }
             if(vidas > 0)
             {
+                string seguirjugando = "";
                 Console.Clear();
                 Console.WriteLine("Felicidades!! es corecto, la palabra era " + randomWord);
-                Console.Read();
+                do
+                {
+                    Console.WriteLine("Presiona 'r' Para volver a jugar o 's' para salir.");
+                    seguirjugando = Console.ReadLine();
+                }
+                while (seguirjugando != "s" && seguirjugando != "r");
+                if(seguirjugando == "r")
+                {
+                    Main();
+                }
+                
             }
             else
             {
