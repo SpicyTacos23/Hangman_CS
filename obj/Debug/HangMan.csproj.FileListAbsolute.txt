@@ -1,0 +1,7 @@
+C:\Users\saul\source\repos\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\saul\source\repos\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\saul\source\repos\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\saul\source\repos\HangMan\HangMan\obj\Debug\HangMan.csprojAssemblyReference.cache
+C:\Users\saul\source\repos\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\saul\source\repos\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\saul\source\repos\HangMan\HangMan\obj\Debug\HangMan.pdb
